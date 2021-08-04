@@ -1,0 +1,476 @@
+SMILES,IUPAC name,CN,Device
+CCCCCCC,heptane,57.6,AFIDA
+CCCCCCCCCCCCO,dodecan-1-ol,51.605000000000004,AFIDA
+CCCC=O,butanal,38.315,AFIDA
+CC1CCCCC1,methylcyclohexane,17.354999999999997,AFIDA
+CC(C)CC(C)(C)C,"2,2,4-trimethylpentane",5.2,AFIDA
+COC(C)COC(C)COC(C)CO,2-[2-(2-methoxypropoxy)propoxy]propan-1-ol,60.01,AFIDA
+COC(C)COC(C)CO,2-(2-methoxypropoxy)propan-1-ol,30.2,AFIDA
+CCCCOC(=O)CCCCC(=O)OCCCC,dibutyl hexanedioate,24.745,AFIDA
+CCCCCCCC/C=C\CCCCCCCC(=O)OC(C)C,propan-2-yl (Z)-octadec-9-enoate,63.215,AFIDA
+CCCCOC(=O)CCC(=O)OCCCC,dibutyl butanedioate,10.129999999999999,AFIDA
+CCCCCCCC=O,octanal,84.095,AFIDA
+COCCOCCOCCO,2-[2-(2-methoxyethoxy)ethoxy]ethanol,60.05,AFIDA
+CCCCCCCCCCCC(=O)OC,methyl dodecanoate,60.815,AFIDA
+CCCCCCCCCCCC(=O)OCC,ethyl dodecanoate,65.16499999999999,AFIDA
+CCCCCCCCCCCCCC(=O)OC,methyl tetradecanoate,68.415,AFIDA
+CCCCCCCCCCCCCC(=O)OCC,ethyl tetradecanoate,70.775,AFIDA
+CCCCCCCC/C=C\CCCCCCCC(=O)OC,methyl (Z)-octadec-9-enoate,55.345,AFIDA
+CCCCCCCC/C=C\CCCCCCC(CC)C(=O)[O-],(Z)-2-ethyloctadec-9-enoate,57.205,AFIDA
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC,"methyl (9Z,12Z)-octadeca-9,12-dienoate",43.805,AFIDA
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC,"ethyl (9Z,12Z)-octadeca-9,12-dienoate",46.02,AFIDA
+CCCCCC(=O)OC,methyl hexanoate,16.375,AFIDA
+CCCCCC(=O)OCC,ethyl hexanoate,20.61,AFIDA
+CCCCCC(=O)OCCC,propyl hexanoate,25.604999999999997,AFIDA
+CCCCCC(=O)OCCCC,butyl hexanoate,31.979999999999997,AFIDA
+CCCCCCCC(=O)OC,methyl octanoate,38.86,AFIDA
+CCCCCCCC(=O)OCC,ethyl octanoate,41.93,AFIDA
+CCCCCCCC(=O)OCCC,propyl octanoate,42.584999999999994,AFIDA
+CCCCCCCC(=O)OCCCC,butyl octanoate,45.81,AFIDA
+CCCCCCCCC(=O)OC,methyl nonanoate,49.285,AFIDA
+CCCCCCCCCC(=O)OC,methyl decanoate,52.055,AFIDA
+CCCCCCCCCC(=O)OCC,ethyl decanoate,53.96,AFIDA
+CCCCCCCCCC(=O)OCCC,propyl decanoate,51.56,AFIDA
+CCCCCCCCCC(=O)OCCCC,butyl decanoate,53.415,AFIDA
+CCCCCOC(=O)CCCC,pentyl pentanoate,27.965,AFIDA
+CCCCCCOC(=O)CCC,hexyl butanoate,26.78,AFIDA
+CCCCCCCCOC(C)=O,octyl acetate,44.405,AFIDA
+CCCCCCCCO,octan-1-ol,36.095,AFIDA
+CCCCC(CC)CO,2-ethylhexan-1-ol,22.315,AFIDA
+CCCCCCO,hexan-1-ol,22.96,AFIDA
+CCCCCCCCOCCCCCCCC,1-octoxyoctane,122.525,AFIDA
+CCCCCCOCCCCCC,1-hexoxyhexane,131.015,AFIDA
+CC(C)CCOCCC(C)C,3-methyl-1-(3-methylbutoxy)butane,85.1,AFIDA
+CCCCOCC,1-ethoxybutane,110.185,AFIDA
+CCCCOCCCC,1-butoxybutane,116.72999999999999,AFIDA
+CCC(C)OC,2-methoxybutane,38.269999999999996,AFIDA
+CCCOCCC,1-propoxypropane,86.12,AFIDA
+CCCCO,butan-1-ol,6.9,AFIDA
+CCCCCCCOC(=O)CC,heptyl propanoate,34.42,AFIDA
+CCC=CCC(=O)OC,methyl hex-3-enoate,7.91,AFIDA
+CCCCC=CC=CCC(=O)OCC,"ethyl (2E,4Z)-deca-2,4-dienoate",18.72,AFIDA
+CCCCCCC=CCC(=O)OCC,ethyl dec-2-enoate,35.525,AFIDA
+CCCCCCOCC(CC)CC,1-(2-ethylbutoxy)hexane,93.205,AFIDA
+CCC(CC)COCC(CC)CC,3-(2-ethylbutoxymethyl)pentane,70.82,AFIDA
+CCCCOCC(CC)CCCC,3-(butoxymethyl)heptane,93.445,AFIDA
+CC1(C)COC1,"3,3-dimethyloxetane",9.855,AFIDA
+CCC1OCC(C)O1,"2-ethyl-4-methyl-1,3-dioxolane",17.54,AFIDA
+CC(C)CC1OCC(C)O1,"4-methyl-2-(2-methylpropyl)-1,3-dioxolane",34.85,AFIDA
+CCCCOC(CCC)CCC,4-butoxyheptane,80.0,AFIDA
+CCCCOCOCCCC,1-(butoxymethoxy)butane,70.0,AFIDA
+CCC(C)CCCC(C)CCCC(C)C,"2,6,10-trimethyldodecane",59.0,AFIDA
+CCCCCCCCCCC,undecane,71.0,AFIDA
+CCCCCOCCCCC,1-pentoxypentane,142.0,AFIDA
+CC(=O)C(O)OCCC(C)C,3-methylbutyl 2-hydroxypropanoate,39.72,AFIDA
+CCCC(O)CC(=O)OC,methyl 3-hydroxyhexanoate,10.09,AFIDA
+CC(C)C(C)(C)C,"2,2,3-trimethylbutane",3.866834978607792,AFIDA
+CCC(C)=O,butan-2-one,1.0940847039576025,AFIDA
+CCC(C)C,2-methylbutane,10.6032421075266,AFIDA
+CCCC(C)=O,pentan-2-one,1.7494972181974917,AFIDA
+CC(C)OC(C)C,2-propan-2-yloxypropane,2.128,AFIDA
+CCC(C)OC(C)CC,2-butan-2-yloxybutane,12.92,AFIDA
+CCCCC1CCCCC1,butylcyclohexane,50.0,AFIDA
+CCCCCCOC(=O)CCCCC,hexyl hexanoate,40.0,AFIDA
+CCCCCCCC(C)O,nonan-2-ol,40.0,AFIDA
+CCCC,butane,20.64,IQT
+CCCCCC,hexane,50.0,IQT
+CCCCCCC,heptane,53.8,IQT
+CCCCCCCC,octane,58.2,IQT
+CCCCCCCCC,nonane,60.9,IQT
+CCCCCCCCCC,decane,65.5,IQT
+CCCCCCCCCCCC,dodecane,72.9,IQT
+CCCCCCCCCCCCCC,tetradecane,85.1,IQT
+CCCCCCCCCCCCCCC,pentadecane,95.0,CFR engine
+CCCCCCCCCCCCCCCC,hexadecane,100.0,By definition
+CCCCCCCCCCCCCCCCC,heptadecane,105.0,CFR engine
+CCCCCCCCCCCCCCCCCC,octadecane,110.0,CFR engine
+CCC(C)C,2-methylbutane,25.8,IQT
+CCCC(C)C,2-methylpentane,34.5,IQT
+CCC(C)CC,3-methylpentane,30.7,IQT
+CCC(C)(C)C,"2,2-dimethylbutane",24.4,IQT
+CCCCC(C)C,2-methylhexane,43.5,IQT
+CCCC(C)CC,3-methylhexane,42.0,IQT
+CCC(CC)CC,3-ethylpentane,34.1,IQT
+CC(C)CC(C)C,"2,4-dimethylpentane",28.2,IQT
+CCC(C)C(C)C,"2,3-dimethylpentane",21.7,IQT
+CC(C)C(C)(C)C,"2,2,3-trimethylbutane",12.9,IQT
+CCCCCC(C)C,2-methylheptane,52.6,IQT
+CCCCC(C)CC,3-methylheptane,45.0,IQT
+CC(C)CC(C)(C)C,"2,2,4-trimethylpentane",17.4,IQT
+CCC(C)CCCC(C)C,"2,6-dimethyloctane",51.7,IQT
+CCC(C)CCCC(C)CCCC(C)C,"2,6,10-trimethyldodecane",58.0,IQT
+CCCC(C)CCCC(C)CCCC(C)C,"2,6,10-trimethyltridecane",60.85,IQT
+CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C,"2,2,4,4,6,8,8-heptamethylnonane",15.0,By definition
+CCCCCCCCCCCCCCCC(C)C,2-methylheptadecane,91.0,IQT
+CCCCCCCCCCCCCCCCC(C)C,2-methyloctadecane,104.4,IQT
+C=CC(=C)C,"2-methylbuta-1,3-diene",13.0,IQT
+C=CCCCC,hex-1-ene,28.9,IQT
+C=CCCCCC,hept-1-ene,32.0,IQT
+CC(C)=CC=C(C)C,"2,5-dimethylhexa-2,4-diene",19.9,IQT
+C=CCCCCCC,oct-1-ene,40.0,IQT
+CC/C=C\CCCC,(Z)-oct-3-ene,38.1,IQT
+CC/C=C/CCCC,(E)-oct-3-ene,34.0,IQT
+C=C(C)CC(C)(C)C,"2,4,4-trimethylpent-1-ene",8.8,IQT
+C=CCCCCCCCC,dec-1-ene,49.1,IQT
+C=CCCCCCCC=C,"deca-1,9-diene",41.0,IQT
+C=CCCCCCCCCCC,dodec-1-ene,56.8,IQT
+C=CCCCCCCCCCCCCCC,hexadec-1-ene,75.9,IQT
+C1CCCC1,cyclopentane,6.1,IQT
+CC1CCCC1,methylcyclopentane,17.2,IQT
+C1CCCCC1,cyclohexane,19.9,IQT
+C1=CCCCC1,cyclohexene,18.1,IQT
+CC1CCCCC1,methylcyclohexane,23.5,IQT
+CC1CCCCC1C,"1,2-dimethylcyclohexane",24.0,IQT
+CC1CCCC(C)C1,"1,3-dimethylcyclohexane",30.5,IQT
+CCC1CCCCC1,ethylcyclohexane,35.8,IQT
+C1CCCCCCC1,cyclooctane,22.3,IQT
+CC1CCC(C)C(C)C1,"1,2,4-trimethylcyclohexane",24.4,IQT
+CC1CC(C)CC(C)C1,"1,3,5-trimethylcyclohexane",30.5,IQT
+CCCCC1CCCCC1,butylcyclohexane,47.6,IQT
+C1CCC2C(C1)CCC1CCCCC12,"1,2,3,4,4a,4b,5,6,7,8,8a,9,10,10a-tetradecahydrophenanthrene",38.8,IQT
+CC(C)C1CC(C(C)C)CC(C(C)C)C1,"1,3,5-tri(propan-2-yl)cyclohexane",25.3,IQT
+Cc1ccccc1,toluene,6.0,IQT
+CCc1ccccc1,ethylbenzene,6.29,IQT
+Cc1ccccc1C,"1,2-xylene",8.3,IQT
+Cc1cccc(C)c1,"1,3-xylene",7.0,IQT
+Cc1ccc(C)cc1,"1,4-xylene",6.19,IQT
+Cc1cccc(C)c1C,"1,2,3-trimethylbenzene",10.14,IQT
+Cc1ccc(C)c(C)c1,"1,2,4-trimethylbenzene",8.9,IQT
+Cc1cc(C)cc(C)c1,"1,3,5-trimethylbenzene",8.0,IQT
+CCCCc1ccccc1,butylbenzene,12.0,IQT
+c1ccc2c(c1)CCC2,"2,3-dihydro-1H-indene",8.6,IQT
+c1ccc2c(c1)CCCC2,"1,2,3,4-tetrahydronaphthalene",9.4,IQT
+Cc1cccc2ccccc12,1-methylnaphthalene,0.0,By definition
+CCc1cc(CC)cc(CC)c1,"1,3,5-triethylbenzene",7.6,IQT
+CO,methanol,6.1,IQT
+CCO,ethanol,8.0,IQT
+CCCO,propan-1-ol,8.2,IQT
+CCCCO,butan-1-ol,11.7,IQT
+CCC(C)CO,2-methylbutan-1-ol,11.36,IQT
+COCCO,2-methoxyethanol,15.5,IQT
+CCC(C)O,butan-2-ol,8.14,IQT
+CC(C)(C)O,2-methylpropan-2-ol,8.11,IQT
+COCC(C)O,1-methoxypropan-2-ol,16.3,IQT
+OC1CCCC1,cyclopentanol,9.8,IQT
+CCC(C)(C)O,2-methylbutan-2-ol,12.1,IQT
+CC(C)CCO,3-methylbutan-1-ol,12.8,IQT
+CC(C)OCCO,2-propan-2-yloxyethanol,27.8,IQT
+OC1CCCCC1,cyclohexanol,16.3,IQT
+COC(C)(C)CCO,3-methoxy-3-methylbutan-1-ol,10.0,IQT
+CCCCCCCO,heptan-1-ol,29.0,IQT
+CCCCCC(C)O,heptan-2-ol,24.65,IQT
+CCCC(O)CCC,heptan-4-ol,20.69,IQT
+COc1ccccc1O,2-methoxyphenol,19.3,IQT
+OCCc1ccccc1,2-phenylethanol,8.0,IQT
+COc1cc(C)ccc1O,2-methoxy-4-methylphenol,19.8,IQT
+COc1cccc(OC)c1O,"2,6-dimethoxyphenol",26.0,IQT
+CCCCCCCCO,octan-1-ol,33.9,IQT
+CCCCCC(O)CC,octan-3-ol,25.1,IQT
+CCCCC(CC)CO,2-ethylhexan-1-ol,23.5,IQT
+CCCc1ccc(O)cc1,4-propylphenol,8.6,IQT
+CCCCCCCCCO,nonan-1-ol,46.2,CFR engine
+CCCCCCCC(C)O,nonan-2-ol,39.6,IQT
+CCCCCC(O)CCC,nonan-4-ol,28.0,IQT
+COCCOC,"1,2-dimethoxyethane",81.0,IQT
+C1CCOC1,oxolane,21.9,IQT
+CC1CCCO1,2-methyloxolane,21.3,IQT
+COC(C)(C)OC,"2,2-dimethoxypropane",31.3,IQT
+CCCCOCCCC,1-butoxybutane,115.4,IQT
+COC1CCCC1,methoxycyclopentane,47.3,IQT
+CC(C)OC(C)C,2-propan-2-yloxypropane,23.6,IQT
+COc1ccccc1,anisole,6.4,IQT
+CCCCCCOC,1-methoxyhexane,99.8,IQT
+CCCCOCC(C)O,1-butoxypropan-2-ol,36.1,IQT
+CC(C)COCC(C)C,2-methyl-1-(2-methylpropoxy)propane,59.7,IQT
+COc1ccccc1OC,"1,2-dimethoxybenzene",17.0,IQT
+c1ccoc1,furan,7.0,IQT
+CCc1ccco1,2-ethylfuran,10.2,IQT
+CCCCc1ccco1,2-butylfuran,13.1,IQT
+CCC1CCCO1,2-ethyloxolane,28.1,IQT
+CCCCC1CCCO1,2-butyloxolane,45.5,IQT
+CC1=CCC2CC1C2(C)C,"2,6,6-trimethylbicyclo[3.1.1]hept-2-ene",18.9,IQT
+C=C1CCC2CC1C2(C)C,"6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane",20.5,IQT
+COC(C)(C)C,2-methoxy-2-methylpropane,8.5,IQT
+C1CCOCC1,oxane,38.2,IQT
+Cc1ccco1,2-methylfuran,9.1,IQT
+Cc1ccc(C)o1,"2,5-dimethylfuran",10.9,IQT
+CC(C)=CCC/C(C)=C1\CC=C(C)CC1,(4Z)-1-methyl-4-(6-methylhept-5-en-2-ylidene)cyclohexene,32.2,IQT
+C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,"(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene",29.0,IQT
+C1CC2C3CCC(C3)C2C1,"tricyclo[5.2.1.02,6]decane",20.4,IQT
+CCCCCCC(C)CCCC,5-methylundecane,67.0,IQT
+C1CC[C@H]2CCCC[C@@H]2C1,"1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",31.8,IQT
+CCC1C2CC3CC(C2)CC1C3,2-ethyladamantane,42.7,IQT
+CCCCCC12CC3CC(CC(C3)C1)C2,1-pentyladamantane,48.5,IQT
+CCCC=C1C2CC3CC(C2)CC1C3,2-butylideneadamantane,49.1,IQT
+CCCC1C2CC3CC(C2)CC1C3,2-propyladamantane,48.6,IQT
+C1CC[C@H]2CCCC[C@H]2C1,"1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",39.4,IQT
+C#CCCCCC,hept-1-yne,22.0,IQT
+C1=C\CC/C=C\CC/1,"(1Z,5Z)-cycloocta-1,5-diene",25.7,IQT
+CCCC(C)C=C(C)C,"2,4-dimethylhept-2-ene",27.0,IQT
+C=C(C)C1CC=C(C)CC1,1-methyl-4-prop-1-en-2-ylcyclohexene,18.9,IQT
+CC1=CCC(C(C)C)=CC1,"1-methyl-4-propan-2-ylcyclohexa-1,4-diene",20.3,IQT
+CC1=CCC2C(C1)C2(C)C,"3,7,7-trimethylbicyclo[4.1.0]hept-3-ene",26.9,IQT
+C=C/C(C)=C/CC=C(C)C,"(3E)-3,7-dimethylocta-1,3,6-triene",28.0,IQT
+C=C/C(C)=C/C/C=C(\C)CCC=C(C)C,"(3E,6E)-3,7,11-trimethyldodeca-1,3,6,10-tetraene",31.72,IQT
+COC(OC)c1ccccc1,dimethoxymethylbenzene,10.4,IQT
+C/C(C=O)=C\c1ccccc1,(E)-2-methyl-3-phenylprop-2-enal,19.1,IQT
+CC(=O)CC(C)(C)O,4-hydroxy-4-methylpentan-2-one,11.5,IQT
+CCCCCCO,hexan-1-ol,23.3,IQT
+CCc1ccc(O)c(OC)c1,4-ethyl-2-methoxyphenol,19.6,IQT
+COc1cc(C)cc(OC)c1O,"2,6-dimethoxy-4-methylphenol",25.0,IQT
+CCCc1ccc(O)c(OC)c1,2-methoxy-4-propylphenol,18.0,IQT
+CC(C)=CCC/C(C)=C/CO,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",16.5,IQT
+C=CC(C)(O)CCC=C(C)C,"3,7-dimethylocta-1,6-dien-3-ol",20.0,IQT
+CC(C)=CCCC(C)CCO,"3,7-dimethyloct-6-en-1-ol",25.6,IQT
+CCCCCCCCCCO,decan-1-ol,50.3,IQT
+CC(C)CCCC(C)CCO,"3,7-dimethyloctan-1-ol",29.3,IQT
+CCCCCCCCCCCO,undecan-1-ol,53.2,IQT
+CCCCCCCCCCCCO,dodecan-1-ol,63.6,IQT
+CCCCCCCCCCCCCCO,tetradecan-1-ol,80.8,IQT
+CC(C)=CCC/C(C)=C/CC/C(C)=C/CO,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",24.04,IQT
+C=CC(C)(O)CC/C=C(\C)CCC=C(C)C,"(6E)-3,7,11-trimethyldodeca-1,6,10-trien-3-ol",19.2,IQT
+CCCC=O,butanal,41.1,IQT
+CCCCC=O,pentanal,62.2,IQT
+CC(C)C=O,2-methylpropanal,21.1,IQT
+O=C1CCCC1,cyclopentanone,9.0,IQT
+CCC(=O)CC,pentan-3-one,19.5,IQT
+O=C1CCCCC1,cyclohexanone,10.4,IQT
+CC(=O)CC(C)C,4-methylpentan-2-one,12.6,IQT
+CCCCCC=O,hexanal,75.2,IQT
+O=CC1CC=CCC1,cyclohex-3-ene-1-carbaldehyde,28.1,IQT
+O=C1CCCCCC1,cycloheptanone,22.5,IQT
+CC(C)C(=O)C(C)C,"2,4-dimethylpentan-3-one",15.8,IQT
+CCCCCC(C)=O,heptan-2-one,30.0,IQT
+CCCCCCC(C)=O,octan-2-one,36.6,IQT
+CCCCCC(=O)CC,octan-3-one,36.0,IQT
+CCCCCCCC=O,octanal,102.5,IQT
+CC1CC(=O)CC(C)(C)C1,"3,3,5-trimethylcyclohexan-1-one",11.9,IQT
+CCCCCCCC(C)=O,nonan-2-one,46.1,IQT
+CCCCCC(=O)CCC,nonan-4-one,43.18,IQT
+CC(C)C1CC[C@@H](C)CC1=O,"(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",20.6,IQT
+CCCCCCC1CCCC(=O)O1,6-hexyloxan-2-one,48.6,IQT
+CCCCC1CCCCC(=O)O1,7-butyloxepan-2-one,40.5,IQT
+CCCCCCCC1CCC(=O)O1,5-heptyloxolan-2-one,52.6,IQT
+CCCCCC(=O)CCCCC,undecan-6-one,49.36,IQT
+C1=COCC1,"2,3-dihydrofuran",20.0,IQT
+C1=CCOC1,"2,5-dihydrofuran",15.6,IQT
+OCc1ccco1,furan-2-ylmethanol,10.8,IQT
+OCC1CCCO1,oxolan-2-ylmethanol,17.9,IQT
+C1=COCCC1,"3,4-dihydro-2H-pyran",23.9,IQT
+COCCOCCO,2-(2-methoxyethoxy)ethanol,38.3,IQT
+CCOC(=O)CC(C)=O,ethyl 3-oxobutanoate,13.7,IQT
+CCOC(C)OCC,"1,1-diethoxyethane",54.1,IQT
+CCOCOCC,ethoxymethoxyethane,57.3,IQT
+CC(=O)OCC1CCCO1,oxolan-2-ylmethyl acetate,18.2,IQT
+CCOCC1CCCO1,2-(ethoxymethyl)oxolane,78.9,IQT
+COC(C)COC(C)CO,2-(2-methoxypropoxy)propan-1-ol,43.9,IQT
+COCCOCCOCCO,2-[2-(2-methoxyethoxy)ethoxy]ethanol,80.7,IQT
+COc1ccc(C=O)cc1,4-methoxybenzaldehyde,25.8,IQT
+COc1ccc(C)cc1,1-methoxy-4-methylbenzene,7.4,IQT
+CCCc1ccc(OC)cc1,1-methoxy-4-propylbenzene,7.5,IQT
+CC12CCC(CC1)C(C)(C)O2,"1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",18.8,IQT
+CC(C)CCOCCC(C)C,3-methyl-1-(3-methylbutoxy)butane,96.0,IQT
+CCCCCOCCCCC,1-pentoxypentane,111.0,IQT
+COC(C)COC(C)COC(C)CO,2-[2-(2-methoxypropoxy)propoxy]propan-1-ol,81.3,IQT
+CC(C)=CC1CC(C)CCO1,4-methyl-2-(2-methylprop-1-enyl)oxane,30.0,IQT
+C=COCC1CCC(COC=C)CC1,"1,4-bis(ethenoxymethyl)cyclohexane",61.1,IQT
+C=COCCCCCCCCCCCC,1-ethenoxydodecane,101.7,IQT
+COC(C)=O,methyl acetate,19.5,IQT
+CCCCOC(=O)CCCC,butyl pentanoate,23.5,IQT
+CCCCOC(=O)CCC(C)=O,butyl 4-oxopentanoate,14.4,IQT
+CCCCCCC(=O)OC,methyl heptanoate,34.2,IQT
+CCCCOC(=O)CCC,butyl butanoate,17.8,IQT
+CCCCC(=O)OCCC,propyl-pentanoate,20.7,IQT
+CCCCCCOC(C)=O,hexyl acetate,32.2,IQT
+CCCCCC(=O)OCC,ethyl hexanoate,27.5,IQT
+CCCCC(=O)OCC,ethyl pentanoate,18.6,IQT
+CCCCCC(=O)OC,methyl hexanoate,25.3,IQT
+CC=CC=CC(=O)OC,"methyl (2E,4E)-hexa-2,4-dienoate",6.0,IQT
+CCCCC(=O)OC.CCCCC(=O)OC,methyl pentanoate,13.3,IQT
+CCCCCOC(=O)CCCC,pentyl pentanoate,27.6,IQT
+[CH+]=CCCCCCCCC(=O)OC,methyl dec-9-enoate,38.3,IQT
+CCCCCCCCCC(=O)OC,methyl decanoate,51.6,IQT
+CC(=O)OC1CC(C)CCC1C(C)C,"(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl acetate",19.5,IQT
+CCCCCCCCCCCC(=O)OC,methyl dodecanoate,66.7,IQT
+C=COC(=O)CCCCCCCCCCC,ethenyl dodecanoate,77.0,IQT
+CCCCCCCCCCCCCC(=O)OC,methyl tetradecanoate,75.8,IQT
+CCCCCCCCCCCCCCCC(=O)OC.CCCCCCCCCCCCCCCC(=O)OC,methyl hexadecanoate,85.9,IQT
+CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC,"methyl octadeca-9,12,15-trienoate",37.0,IQT
+CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)OC,"methyl-(6Z,9Z,12Z)-octadeca-6,9,12-trienoate",29.2,IQT
+CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC,"methyl-(9Z,12Z,15Z)-octadeca-9,12,15-trienoate",22.7,IQT
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC.CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC,"methyl (9Z,12Z)-octadeca-9,12-dienoate",43.9,IQT
+CCCCC/C=C/C/C=C/CCCCCCCC(=O)OC,"methyl-(9E,12E)-octadeca-9,12-dienoate",43.0,IQT
+CCCCCCCC/C=C\CCCCCCCC(=O)OC,methyl (Z)-octadec-9-enoate,56.6,IQT
+CCCCCCCCCCC/C=C\CCCCC(=O)OC,methyl (Z)-octadec-6-enoate,58.6,IQT
+CCCCCCCC/C=C/CCCCCCCC(=O)OC,methyl (E)-octadec-9-enoate,57.15,IQT
+CCCCCC[C@@H](O)C/C=C\CCCCCCCC(=O)OC,"methyl-(Z,12R)-12-hydroxyoctadec-9-enoate",37.4,IQT
+CCCCCCCCCCCCCCCCCC(=O)OC.CCCCCCCCCCCCCCCCCC(=O)OC,methyl octadecanoate,95.6,IQT
+CCCCCC/C=C\CCCCCCCCCC(=O)OC,methyl (Z)-octadec-11-enoate,53.9,IQT
+CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)OC,"methyl (5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoate",29.57,IQT
+CCCCCCCC/C=C\CCCCCCCCCC(=O)OC,﻿methyl-(Z)-icos-11-enoate,73.2,IQT
+CCCCCCCC/C=C\CCCCCCCCCCCC(=O)OC,methyl (Z)-docos-13-enoate,74.2,IQT
+COC(=O)CCC(C)=O,methyl 4-oxopentanoate,7.8,IQT
+COCC(C)OC(C)=O,1-methoxypropan-2-yl acetate,24.0,IQT
+CCOC(=O)CCC(C)=O,ethyl 4-oxopentanoate,6.0,IQT
+CCCCCOC(C)=O,pentyl acetate,23.6,IQT
+CCCCCCCC(=O)OC,methyl octanoate,39.75,IQT
+CCCCCCCC(=O)OCC,ethyl octanoate,42.19,IQT
+CCCCCC(=O)OCCCC,butyl hexanoate,31.0,IQT
+CCCCCCOC(=O)CCC.CCCCCCOC(=O)CCC,hexyl butanoate,29.0,IQT
+CCCCCCCC(=O)OCCCC,butyl octanoate,39.6,IQT
+CCCCCCCCCC(=O)O,decanoic acid,47.6,IQT
+CCCCCCCCCC(=O)OCC,ethyl decanoate,54.6,IQT
+CCCCCCOC(=O)CCCCC,hexyl hexanoate,40.0,IQT
+CCCCCCCCCC(=O)OC(C)C,propan-2-yl decanoate,46.6,IQT
+CCCCCCCCCC(=O)OCCC,propyl decanoate,52.9,IQT
+CCCCCCCCCC(=O)OCCCC,butyl decanoate,54.6,IQT
+CCCCCCCCCCCCCC(=O)OCC,ethyl tetradecanoate,66.9,IQT
+CCCCCCCCCCCCCC(=O)OCCCC,butyl tetradecanoate,69.4,IQT
+CCCCCCCCCCCCCCCCCC(=O)OCC,ethyl octadecanoate,76.8,IQT
+CCCCCCCCCCCCCCCCCC(=O)OCCC,propyl octadecanoate,69.9,IQT
+CCCCCCCCCCCCCCCCCC(=O)OCCCC,butyl octadecanoate,80.1,IQT
+CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCCCCCCCCCCC(=O)O,octadecanoic acid,61.7,IQT
+CCCCCCCC/C=C\CCCCCCCC(=O)O,(Z)-octadec-9-enoic-acid,46.1,IQT
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,"(9Z,12Z)-octadeca-9,12-dienoic-acid",31.4,IQT
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC,"ethyl (9Z,12Z)-octadeca-9,12-dienoate",37.1,IQT
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCCC,"propyl (9Z,12Z)-octadeca-9,12-dienoate",40.6,IQT
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCCCC,"butyl (9Z,12Z)-octadeca-9,12-dienoate",41.6,IQT
+CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O,"(9Z,12Z,15Z)-octadeca-9,12,15-trienoic-acid",20.4,IQT
+CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OCC,"ethyl-(9Z,12Z,15Z)-octadeca-9,12,15-trienoate",26.7,IQT
+CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OCCC,"propyl (9Z,12Z,15Z)-octadeca-9,12,15-trienoate",26.8,IQT
+CC/C=C/C/C=C/C/C=C/CCCCCCCC(=O)OCCCC,"butyl-(9E,12E,15E)-octadeca-9,12,15-trienoate",28.6,IQT
+CCCCCCCC/C=C\CCCCCCCC(=O)OCC,ethyl (Z)-octadec-9-enoate,53.9,IQT
+CCCCCCCC/C=C\CCCCCCCC(=O)OCCC,propyl (Z)-octadec-9-enoate,55.7,IQT
+CCCCCCCC/C=C\CCCCCCCC(=O)OCCCC,butyl (Z)-octadec-9-enoate,59.8,IQT
+CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCC(=O)OC,"methyl (4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoate",24.35,IQT
+OCc1ccccc1,phenylmethanol,5.9,IQT
+c1ccc(COCc2ccccc2)cc1,phenylmethoxymethylbenzene,8.1,IQT
+CCCCOC(=O)CCC(=O)OCCCC,dibutyl butanedioate,19.4,IQT
+CCCCOC(=O)CCCCC(=O)OCCCC,dibutyl hexanedioate,25.9,IQT
+CC(C)CO,2-methylpropan-1-ol,8.5,IQT
+CCCC(C)C(=O)CC,4-methylheptan-3-one,24.6,IQT
+CCCC(C)C(O)CC,4-methylheptan-3-ol,16.0,IQT
+CCCC(C)C(C)=O,3-methylhexan-2-one,18.7,IQT
+CCCC(C)C(C)O,3-methylhexan-2-ol,15.1,IQT
+CCCCCCc1ccccc1,hexylbenzene,33.3,IQT
+c1ccccc1,benzene,14.3,CFR engine
+C=CCCCCCCCCCCCC,tetradec-1-ene,80.5,CFR engine
+CCCCCCCCCCCCC,tridecane,89.5,IQT
+CCCC(C)=O,pentan-2-one,9.56,IQT
+CCC(C)CC(C)C,"2,4-dimethylhexane",38.36,IQT
+CCCC(=O)CCC,heptan-4-one,25.82,IQT
+CCC/C=C\CCC,(Z)-oct-4-ene,36.55,IQT
+CCCCC(=O)CCCC,nonan-5-one,39.74,IQT
+CC(C)CC(=O)CC(C)C,"2,6-dimethylheptan-4-one",14.0,IQT
+C=CCc1ccc(O)c(OC)c1,2-methoxy-4-prop-2-enylphenol,20.85,IQT
+O=Cc1ccco1,f﻿uran-2-carbaldehyde,13.9,IQT
+CCCCO,butan-1-ol,3.7,FIT
+CCCCCCC,heptane,54.1,FIT
+CCCCCO,pentan-1-ol,18.2,CFR engine
+CCCC1CCCCC1,propylcyclohexane,44.23,IQT
+CC(C)=CCC(C)CCC(C)CCC(C)C,"2,5,8,11-tetramethyldodec-2-ene",4.5,CFR engine
+C1CCC(C2CCCCC2)CC1,cyclohexylcyclohexane,53.0,CFR engine
+CCCCCCCCCc1ccccc1,nonylbenzene,50.0,CFR engine
+CCCCCCCCCCCCc1ccccc1,dodecylbenzene,68.0,CFR engine
+CCCCCCCCCCCCCCc1ccccc1,tetradecylbenzene,72.0,CFR engine
+CC=CCCCC,hept-2-ene,44.36,IQT
+CC1CCC2CC1C2(C)C,"2,6,6-trimethylbicyclo[3.1.1]heptane",29.2,IQT
+CC(=O)OCCC(C)C.CC(=O)OCCC(C)C,3-methylbutyl acetate,23.61,IQT
+CCC(C)(O)CCCC(C)C,"3,7-dimethyloctan-3-ol",28.56,IQT
+CCCCC(C)C(C)=O,3-methylheptan-2-one,24.6,IQT
+CCCCCCCc1ccco1,2-heptylfuran,30.45,IQT
+OCC1CCCCC1,cyclohexylmethanol,21.34,IQT
+CCCCc1ccc(CCCC)cc1,"1,4-dibutylbenzene",15.07,IQT
+CCCCCCCc1ccccc1,heptylbenzene,43.68,IQT
+CCCCCCC(=O)CC,nonan-3-one,39.9,IQT
+CCCCCCCCc1ccccc1,octylbenzene,50.42,IQT
+C/C=C\CCCC,(Z)-hept-2-ene,44.36,IQT
+CCCOCCC,1-propoxypropane,106.0,IQT
+CC1=CCCCC1,1-methylcyclohexene,24.55,IQT
+CC1CC=CCC1,4-methylcyclohexene,25.82,IQT
+CC1C=CCCC1,3-methylcyclohexene,24.74,IQT
+CCC(C)(O)CCCC(C)CCCC(C)C,"3,7,11-trimethyldodecan-3-ol",59.9,IQT
+CC(C)CCCC(C)CCCC(C)CCO,"3,7,11-trimethyldodecan-1-ol",36.5,IQT
+CC1CCCC(C)C2CC(C)(C)C2CC1,"2,6,10,10-tetramethylbicyclo[7.2.0]undecane",27.0,IQT
+COCC(O)CO,"3-methoxypropane-1,2-diol",9.9,IQT
+COCCOCCOC,1-methoxy-2-(2-methoxyethoxy)ethane,54.6,IQT
+CCOCCOCCO,2-(2-ethoxyethoxy)ethanol,54.6,IQT
+CC1(C)OCC(CO)O1,"(2,2-dimethyl-1,3-dioxolan-4-yl)methanol",8.7,IQT
+CCOCOCC,ethoxymethoxyethane,47.0,AFIDA
+CCOCOCOCC,ethoxymethoxymethoxyethane,63.0,AFIDA
+CCOCOCOCOCC,ethoxymethoxymethoxymethoxyethane,67.0,AFIDA
+CCOCOCOCOCOCC,ethoxymethoxymethoxymethoxymethoxyethane,70.0,AFIDA
+COCOCOC,methoxy(methoxymethoxy)methane,68.0,AFIDA
+COCOCOCOC,methoxy(methoxymethoxymethoxy)methane,72.0,AFIDA
+COCOCOCOCOC,methoxy(methoxymethoxymethoxymethoxy)methane,84.0,AFIDA
+COCOCOCOCOCOC,methoxy(methoxymethoxymethoxymethoxymethoxy)methane,93.0,AFIDA
+CC(CC(C)(C)C)CC(C)(C)C,"2,2,4,6,6-pentamethylheptane",16.3,CFR engine
+CCCCCCC(C)CCC(C)C,"2,5-dimethylundecane",57.75,Neumann constant volume combustion chamber
+CC[C@H](CC(C)C)[C@H](CC)CC(C)C,"2,7-dimethyl-4,5-diethyloctane",39.375,Neumann constant volume combustion chamber
+CCCCCCC(C)C(C)CCCCCC,"7,8-dimethyltetradecane",40.25,Neumann constant volume combustion chamber
+CCCCCCCCC(C)CCCCCCCC,9-methylheptadecane,65.625,Neumann constant volume combustion chamber
+CCCCCCCCC(C)C(C)CCCCCCCC,"9,10-dimethyloctadecane",59.5,Neumann constant volume combustion chamber
+CC(C)CCC(CCC(C)C)C(CCC(C)C)CCC(C)C,"2,9-dimethyl-5,6-diisopentylldecane",48.125,Neumann constant volume combustion chamber
+CCCCCCCC(CC)CC,3-ethyldecane,48.125,Neumann constant volume combustion chamber
+CCCC(CC)C(CC)CCC,"4,5-diethyloctane",20.125,Neumann constant volume combustion chamber
+CCCCCCC(CCC)CCC,4-propyldecane,39.375,Neumann constant volume combustion chamber
+CCCCC(CCCC)CCCC,5-butylnonane,53.375,Neumann constant volume combustion chamber
+CCCCCCC(CCCC)CCCCCC,7-butyltridecane,70.0,Neumann constant volume combustion chamber
+CCCCCCCC(CCC)CCCCCCC,8-propylpentadecane,48.125,Neumann constant volume combustion chamber
+CCCCCCC(CC)C(CC)CCCCCC,"7,8-diethyltetradecane",67.375,Neumann constant volume combustion chamber
+CCCCC(CCCC)C(CCCC)CCCC,"5,6-dibutyldecane",29.75,Neumann constant volume combustion chamber
+CCCCCCCCC(CCCCCC)CCCCCC,7-hexylpentadecane,83.125,Neumann constant volume combustion chamber
+CCCCCCCCC(CCCCCCC)CCCCCCCC,9-heptylheptadecane,87.5,Neumann constant volume combustion chamber
+C=CCCCCCCCCCCCC,tetradec-1-ene,78.75,Neumann constant volume combustion chamber
+CCC/C=C(\CCCC)CCCCCCC,5-butyl-dodec-4-ene,45.5,Neumann constant volume combustion chamber
+C=CCCCC[C@H](CCCC)CCCCCC,7-butyltridec-1-ene,35.875,Neumann constant volume combustion chamber
+CCCCCCC/C=C(\C)CCCCCCCC,9-methyl-heptadec-9-ene,65.625,Neumann constant volume combustion chamber
+CCCCCC[C@@H](C)/C=C/[C@H](C)CCCCCC,"7,10-dimethyl-hexadec-8-ene",42.875,Neumann constant volume combustion chamber
+CCCCCC/C=C(/CCC)CCCCCCC,8-propyl-pentadec-8-ene,45.5,Neumann constant volume combustion chamber
+CCCCCCCC=C(CCCCCC)CCCCCC,7-hexyl-pentadec-7-ene,47.25,Neumann constant volume combustion chamber
+CCCCCCCCC[C@H](C)/C=C/[C@@H](C)CCCCCCCCC,"10,13-dimethyl-doeicos-11-ene",56.0,Neumann constant volume combustion chamber
+CCCCCC/C(C)=C(\C)CCC=C(C)C,"(6E)-2,6,7-trimethyltrideca-2,6-diene",24.5,Neumann constant volume combustion chamber
+CCCCCCCC[C@@H](CCC)[C@H](CCC)CCCCCCCC,"9,10-dipropyloctadecane",47.25,Neumann constant volume combustion chamber
+CCC(=CCCCCCCC=C(CC)CC)CC,"3,12-diethyltetradeca-3,11-diene",26.25,Neumann constant volume combustion chamber
+CCC[C@@H](CC)C1CCCCC1,3-cyclohexylhexane IUPAC,35.875,Neumann constant volume combustion chamber
+CCCCCC[C@@H](C(C)C)C1CCCCC1,2-methyl-3-cyclohexylnonane,56.0,Neumann constant volume combustion chamber
+CCCCCCCCCCCCC1CCCC(C)C1,1-methyl-3-dodecylcyclohexane,70.0,Neumann constant volume combustion chamber
+CCCCCCCCCCCC[C@@H](C)C1CCCCC1,2-cyclohexyltetradecane,56.875,Neumann constant volume combustion chamber
+CCCCCCCCCCCCCC(C)(C)C1CCCCC1,2-methyl-2-cyclohexylpentadecane,44.625,Neumann constant volume combustion chamber
+CCCCCCCCCCCCCCCCC1CC(C)C(C)CC1C,"1,2,4-trimethyl-5-hexadecylcyclohexane",42.0,Neumann constant volume combustion chamber
+CCCCCCCCCCCCCCCC(CCCC)C1CCCCC1,icosan-5-ylcyclohexane,65.625,Neumann constant volume combustion chamber
+CCCC1CCCC2CCCCC12,"1-propyl-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",35.0,Neumann constant volume combustion chamber
+CCCCC1CCCC2CCCCC12,"1-butyl-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",30.625,Neumann constant volume combustion chamber
+CC[C@@H](C)C1CCCC2CCCCC21,"1-butan-2-yl-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",33.6875,Neumann constant volume combustion chamber
+CC(C)(C)C1CCCC2CCCCC21,"1-tert-butyl-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",23.625,Neumann constant volume combustion chamber
+CCCCCCCCC1CCCC2CCCCC12,octyldecalin,30.625,Neumann constant volume combustion chamber
+CCCC(C)(CCC)C1CCCC2CCCCC21,4-methyl-4-decalylheptane,21.0,Neumann constant volume combustion chamber
+CCCCCC[C@](C)(CC)C1CCCC2CCCCC21,3-methyl-3-decalylnonane,18.375,Neumann constant volume combustion chamber
+CCCCCCCCC(C)(C)C1CCCC2CCCCC21,2-methyl-2-decalyldecane,36.75,Neumann constant volume combustion chamber
+CCCCCCC(C)c1ccccc1,octan-2-ylbenzene,32.375,Neumann constant volume combustion chamber
+CCCCCCCCc1cccc(C)c1C,octylxylene,20.125,Neumann constant volume combustion chamber
+CCCCCCCCCC(C)c1ccccc1,undecan-2-ylbenzene,50.75,Neumann constant volume combustion chamber
+CCCCCCCCC(CCC)c1ccccc1,dodecan-4-ylbenzene,42.0,Neumann constant volume combustion chamber
+CCCCCCC(CCCCCC)c1ccccc1,tridecan-7-ylbenzene,40.25,Neumann constant volume combustion chamber
+CCCCCCCCCCCCC(C)c1ccccc1,tetradecan-2-ylbenzene,49.0,Neumann constant volume combustion chamber
+CCCCCCCCCCCCCC(C)(C)c1ccccc1,2-methylpentadecan-2-ylbenzene,39.375,Neumann constant volume combustion chamber
+CCCCCCCC(CC(C)C)(CC(C)C)c1ccccc1,2-methyl-4-isobutyl-4-phenylundecane,18.375,Neumann constant volume combustion chamber
+CCCCCCCCCCCCCCCC(C)(C)c1ccccc1,2-methyl-2-phenylheptadecane,39.375,Neumann constant volume combustion chamber
+CCCCCCCCCC(CCCC)(CCCC)c1ccccc1,5-butyl-5-phenyltetradecane,57.75,Neumann constant volume combustion chamber
+CCCCCCCCCCCCCCCCc1cc(C)c(C)cc1C,"1,2,4-trimethyl-5-hexadecylbenzene",42.0,Neumann constant volume combustion chamber
+CCCCCCCCCCCCCCCC(CCCC)c1ccccc1,icosan-5-ylbenzene,39.375,Neumann constant volume combustion chamber
+CCCCCCCCC[C@H](C)c1ccccc1,2-phenyl-2-undecane,22.75,Neumann constant volume combustion chamber
+CCCCc1cccc2ccccc12,1-butylnaphthalene,6.125,Neumann constant volume combustion chamber
+CC(C)(C)c1ccc2ccccc2c1,2-tert-butylnaphthalene,3.5,Neumann constant volume combustion chamber
+CCCCCCCCc1ccc2ccccc2c1,2-octylnaphthalene,17.5,Neumann constant volume combustion chamber
+CCCC1CCCc2ccccc21,"1-propyl-1,2,3,4-tetrahydronaphthalene",7.875,Neumann constant volume combustion chamber
+CC[C@H](C)C1CCCc2ccccc21,sec-butyltetralin,6.825,Neumann constant volume combustion chamber
+CC(C)(C)C1CCCc2ccccc21,"1-tert-butyl-1,2,3,4-tetrahydronaphthalene",16.625,Neumann constant volume combustion chamber
+CCCCCCCCC1CCCc2ccccc21,octyltetralin,17.9375,Neumann constant volume combustion chamber
+CCCCCCCCC1CCc2ccccc2C1CCCCCCCC,dioctyltetralin,25.375,Neumann constant volume combustion chamber
+CCCCC(C)(C)c1ccc2ccccc2c1,2-methyl-2-(beta)-naphthylhexane,10.5,Neumann constant volume combustion chamber
+CCCC(C)(CCC)c1ccc2ccccc2c1,4-methyl-4-(beta)-naphthylheptane,8.75,Neumann constant volume combustion chamber
+CC[C@@H](C)C[C@@](C)(CC)c1ccc2ccccc2c1,"3,6-dimethyl-3-(beta)-naphthyloctane",17.5,Neumann constant volume combustion chamber
+CCCCC(C)(CCCC)c1ccc2ccccc2c1,5-methyl-5-(beta)-naphthylnonane,12.25,Neumann constant volume combustion chamber
+CCCCCCCCC(C)(C)c1ccc2ccccc2c1,2-methyl-2-(beta)-naphthyldecane,17.5,Neumann constant volume combustion chamber
+CCCCCCC(CC)(CC)c1ccc2ccccc2c1,3-ethyl-3-(beta)-naphtylnonane,13.125,Neumann constant volume combustion chamber
